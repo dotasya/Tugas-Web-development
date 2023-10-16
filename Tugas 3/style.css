@@ -1,0 +1,69 @@
+body,
+h1,
+h2,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #95afc2;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 30px;
+  color: #ffffff;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+hr {
+  border: none;
+  border-top: 3px solid #000;
+}
+
+.job-title {
+  font-size: 18px;
+  color: #070707;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #020202;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  color: #000000;
+  margin-top: 30px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+li:last-child {
+  font-weight: bold;
+  color: #000000;
+}
